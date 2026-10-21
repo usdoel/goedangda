@@ -1,0 +1,13 @@
+{
+  "name": "GoedangDA - Gudang Pondok Pesantren Darul Arqam",
+  "short_name": "GoedangDA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f8fc",
+  "theme_color": "#18181b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
